@@ -26,7 +26,11 @@ def naming_system
        }
      }
    }
+<<<<<<< HEAD
  
+=======
+ }
+>>>>>>> 1ac02863c18923c3026e120ab1bc3d727c0d4581
  new_hoh
   # Remember:
   #  Kingdom
